@@ -1,4 +1,8 @@
 # rotation_app
+#output![landscape](https://github.com/mamun968/orentation_app/assets/110564652/10c96bf0-fba0-4dec-a943-f24e062aa7d9)
+ 
+
+![portrait](https://github.com/mamun968/orentation_app/assets/110564652/2ac0465d-1929-4a9e-9f59-b7ef0b5c4158)
 
 A new Flutter project.
 
